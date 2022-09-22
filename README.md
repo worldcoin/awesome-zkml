@@ -78,4 +78,4 @@ Decision tree for a use case that would use ZKML -> Intersection of {needs priva
   - Generic SNARK for ML inference: ability to easily prove and verify that an output is the product of a given model and input pair.
 - Privacy
   - Decentralized Kaggle: proof that model has greater than x% accuracy on some test data without revealing weights
-  - Privacy-preserving inference: medical diagnostics on private patient data get fed into the model and the sensitive inference (i.e. cancer test result) gets sent to the patient.
+  - Privacy-preserving inference: medical diagnostics on private patient data get fed into the model and the sensitive inference (i.e. cancer test result) gets sent to the patient. ([vCNN paper, page 2/16](https://eprint.iacr.org/2020/584.pdf))
