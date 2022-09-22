@@ -17,6 +17,31 @@ We are in the process of bootstrapping a ZKML community where people can share r
 - Create educational materials for ZKML
 - Organize ZKML events (online and in-person)
 
+## Learn ZK
+
+Here you can find a list of very popular resources to get started with zero-knowledge cryptography (courtesy of [Ingopedia](https://github.com/ingonyama-zk/ingopedia) made by [Ingonyama](https://twitter.com/Ingo_zk)):
+
+- [Ingopedia](https://github.com/ingonyama-zk/ingopedia)
+- [zkProof Standards - Resource](https://zkproof.org/blog/)
+- [ZK Mesh - resource](https://zkmesh.substack.com)
+- [Curated list of ZKP implementations](https://zkp.science)
+- [Awesome - Matter labs - ZK proofs](https://github.com/matter-labs/awesome-zero-knowledge-proofs)
+- [Awesome - Mikerah - Privacy on Blockchains](https://github.com/Mikerah/awesome-privacy-on-blockchains)
+- [Resource: Awesome_Plonk](https://github.com/Fluidex/awesome-plonk)
+- [ZK research 0x](https://0xst.notion.site/ZK-Research-94ba836c3b2a4e2491a871364ee5b13b)
+- [ZK canon](https://a16zcrypto.com/zero-knowledge-canon/)
+
+## Learn ML
+
+Here you can find a list of very popular resources to get started with machine learning.
+
+- [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
+  - [books](https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md)
+  - [courses](https://github.com/josephmisiti/awesome-machine-learning/blob/master/courses.md)
+  - [content](https://github.com/josephmisiti/awesome-machine-learning/blob/master/courses.md)
+  - [events](https://github.com/josephmisiti/awesome-machine-learning/blob/master/events.md)
+  - [meetups](https://github.com/josephmisiti/awesome-machine-learning/blob/master/meetups.md)
+
 ## Content
 
 - [Zero Knowledge Machine Learning](https://xn--2-umb.com/22/zk-ml/) - [Remco Bloemen](https://twitter.com/recmo)
@@ -30,10 +55,10 @@ We are in the process of bootstrapping a ZKML community where people can share r
 - [zk-mnist](https://github.com/0xZKML/zk-mnist) - [@hopanml](https://twitter.com/hopanml) [@sunfishstanford](https://twitter.com/fho888) [@henripal](https://twitter.com/henripal) (2022)
 - [zk-ml/demo](https://github.com/zk-ml/demo) - [@liaopeiyuan](https://twitter.com/LiaoPeiyuan) (2021)
 - [CircomLib-ML](https://github.com/socathie/circomlib-ml) - [@socathie](https://twitter.com/CathieSoHK) (2022)
-- [Gitcoin Grant Proposal](https://gitcoin.co/grants/6847/zkmachinelearning-an-end-to-end-platform-to-bridge)
+  - [Gitcoin Grant Proposal](https://gitcoin.co/grants/6847/zkmachinelearning-an-end-to-end-platform-to-bridge)
 - [proto-neural-zkp](https://github.com/worldcoin/proto-neural-zkp) - [@recmo](https://twitter.com/recmo) [@dcbuild3r](https://twitter.com/DCbuild3r) (2022)
-- [RockyBot](https://github.com/Modulus-Labs/RockyBot) - [@ModulusLabs](https://twitter.com/ModulusLabs)
-- [halo2deeplearning](https://github.com/jasonmorton/halo2deeplearning) by [Jason Morton](https://science.psu.edu/math/people/jrm53)
+- [RockyBot](https://github.com/Modulus-Labs/RockyBot) - [@ModulusLabs](https://twitter.com/ModulusLabs) (2022)
+- [halo2deeplearning](https://github.com/jasonmorton/halo2deeplearning) by [Jason Morton](https://science.psu.edu/math/people/jrm53) (2022)
 
 ## Papers
 
