@@ -25,7 +25,7 @@ We are in the process of bootstrapping a ZKML community where people can share r
 - [ZK for ML](https://howtocrypto.notion.site/howtocrypto/How-zero-knowledge-proofs-can-certify-Machine-Learning-model-accuracy-6329e927483e4ca8b80fbef2d3bdff51)
 - [Zero Knowledge Podcast](https://zeroknowledge.fm/): [Episode 246: Adversarial Machine Learning Research with Florian Tramèr](https://zeroknowledge.fm/246-2/)
 
-### Codebases
+## Codebases
 
 - [zk-mnist](https://github.com/0xZKML/zk-mnist) - [@hopanml](https://twitter.com/hopanml) [@sunfishstanford](https://twitter.com/fho888) [@henripal](https://twitter.com/henripal) (2022)
 - [zk-ml/demo](https://github.com/zk-ml/demo) - [@liaopeiyuan](https://twitter.com/LiaoPeiyuan) (2021)
@@ -51,18 +51,18 @@ We are in the process of bootstrapping a ZKML community where people can share r
 - [Jiasi Weng, Jian Weng, Member, IEEE, Gui Tang, Anjia Yang, Ming Li, Jia-Nan Liu (2022). pvCNN: Privacy-Preserving and Verifiable Convolutional Neural Network Testing](https://arxiv.org/abs/2201.09186)
 - [Zahra Ghodsi, Tianyu Gu, Siddharth Garg (2017). "SafetyNets: Verifiable Execution of Deep Neural Networks on an Untrusted Cloud"](https://arxiv.org/abs/1706.10268)
 
-### Projects interested in ZKML
+## Projects interested in ZKML
 
-- [0xPARC](https://0xparc.org/)
+- [0xPARC](https://0xparc.org/) - The 0xPARC Foundation promotes application-level innovation on Ethereum and other decentralized platforms
   - [zkMnist](https://0xparc.org/blog/zk-mnist)
-- [Worldcoin](https://worldcoin.org/)
+- [Worldcoin](https://worldcoin.org/) - A Privacy-Preserving Proof-of-Personhood Protocol
   - [proto-neural-zkp](https://github.com/worldcoin/proto-neural-zkp)
-- [Gizatech](https://gizatech.xyz/)
-- [Modulus Labs](https://www.moduluslabs.xyz/)
-- [Risc Zero](https://www.risczero.com/)
-- [Supranational](https://www.supranational.net/)
-- [Ingonyama](https://twitter.com/Ingo_zk) (Hardware)
-- [zkMachineLearning](https://gitcoin.co/grants/6847/zkmachinelearning-an-end-to-end-platform-to-bridge)
+- [Gizatech](https://gizatech.xyz/) - Fully on-chain artificial intelligence on Starknet
+- [Modulus Labs](https://www.moduluslabs.xyz/) - Bringing powerful ML models on-chain
+- [Risc Zero](https://www.risczero.com/) - The General Purpose Zero-Knowledge VM
+- [Supranational](https://www.supranational.net/) - A product and service company developing hardware accelerated cryptography for verifiable and confidential computing
+- [Ingonyama](https://twitter.com/Ingo_zk) (Hardware) - Zero Knowledge ASICs (ZPU)
+- [zkMachineLearning](https://gitcoin.co/grants/6847/zkmachinelearning-an-end-to-end-platform-to-bridge) - ZKML tooling for Circom
 
 ## Use cases
 
