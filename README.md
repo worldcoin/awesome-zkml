@@ -51,12 +51,13 @@ Convolutional Neural Network Testing](https://arxiv.org/abs/2201.09186)
 ### Projects interested in ZKML
 
 - [0xPARC](https://0xparc.org/)
-- [zkMnist](https://0xparc.org/blog/zk-mnist)
+  - [zkMnist](https://0xparc.org/blog/zk-mnist)
 - [Worldcoin](https://worldcoin.org/)
-- [proto-neural-zkp](https://github.com/worldcoin/proto-neural-zkp)
+  - [proto-neural-zkp](https://github.com/worldcoin/proto-neural-zkp)
 - [Gizatech](https://gizatech.xyz/)
 - [Modulus Labs](https://www.moduluslabs.xyz/)
-- [Risc Zero](https://www.risczero.com/) (Hardware)
+- [Risc Zero](https://www.risczero.com/) 
+- [Supranational](<https://www.supranational.net/)
 - [Ingonyama](https://twitter.com/Ingo_zk) (Hardware)
 - [zkMachineLearning](https://gitcoin.co/grants/6847/zkmachinelearning-an-end-to-end-platform-to-bridge)
 
@@ -64,5 +65,16 @@ Convolutional Neural Network Testing](https://arxiv.org/abs/2201.09186)
 
 Decision tree for a use case that would use ZKML -> Intersection of {needs privacy, computational integrity} and {heuristic optimization problem solved by ml}.
 
-- Worldcoin
-   - Verifying that a user has created a valid and unique [WorldID](https://worldcoin.org/the-worldcoin-protocol) locally by running a [CNN](https://en.wikipedia.org/wiki/Convolutional_neural_network) on self-hosted biometric data and is calling [_addMember(uint256 groupId, uint256 identityCommitment)](https://github.com/semaphore-protocol/semaphore/blob/4e6be04729ed2d7e29461a3915877a66a2c9c4d2/contracts/base/SemaphoreGroups.sol#L43) function on the WorldID Semaphore identity group with a valid identityCommitment. -> Makes protocol more permissionless
+- Computational integrity
+  - Worldcoin
+     - Verifying that a user has created a valid and unique [WorldID](https://worldcoin.org/the-worldcoin-protocol) locally by running the IrisCode model on self-hosted biometric data and is calling [_addMember(uint256 groupId, uint256 identityCommitment)](https://github.com/semaphore-protocol/semaphore/blob/4e6be04729ed2d7e29461a3915877a66a2c9c4d2/contracts/base/SemaphoreGroups.sol#L43) function on the WorldID Semaphore identity group with a valid identityCommitment. -> Makes protocol more permissionless
+     - Making the Orb trustless, provide proof that fraud filters are applied
+     - Enable IrisCode upgradeability
+  - ZK anomaly/fraud detection
+    - Creates the ability for creating a ZK proof of [exploitability](https://blog.trailofbits.com/2020/05/21/reinventing-vulnerability-disclosure-using-zero-knowledge-proos/)/fraud. Anomaly detection models could be trained on smart contract data and agreed upon by DAOs as interesting metrics to be able to automate security procedures such as preventively pausing contracts in a more proactive way. There are startups already looking at using ML models for security purposes in a smart contract context, so ZK anomaly detection proofs feel like the natural next step.
+  - Generic SNARK for ML inference: ability to easily prove and verify that an output is the product of a given model and input pair.
+- Privacy
+  - Decentralized Kaggle: proof that model has greater than x% accuracy on some test data without revealing weights
+  - Privacy-preserving inference: medical diagnostics on private patient data get fed into the model and the sensitive inference (i.e. cancer test result) gets sent to the patient.
+
+
