@@ -49,6 +49,7 @@ Here you can find a list of very popular resources to get started with machine l
 - [ZK Machine Learning](https://0xparc.org/blog/zk-mnist)
 - [ZK for ML](https://howtocrypto.notion.site/howtocrypto/How-zero-knowledge-proofs-can-certify-Machine-Learning-model-accuracy-6329e927483e4ca8b80fbef2d3bdff51)
 - [Zero Knowledge Podcast](https://zeroknowledge.fm/): [Episode 246: Adversarial Machine Learning Research with Florian Tramèr](https://zeroknowledge.fm/246-2/)
+- [Zero-Knowledge Machine Learning](https://youtube.com/watch?v=a66iUDRvgWU) by [Jason Morton](http://www.jasonmorton.com/) (video)
 
 ## Codebases
 
