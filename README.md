@@ -50,6 +50,12 @@ Here you can find a list of very popular resources to get started with machine l
 - [ZK for ML](https://howtocrypto.notion.site/howtocrypto/How-zero-knowledge-proofs-can-certify-Machine-Learning-model-accuracy-6329e927483e4ca8b80fbef2d3bdff51)
 - [Zero Knowledge Podcast](https://zeroknowledge.fm/): [Episode 246: Adversarial Machine Learning Research with Florian Tramèr](https://zeroknowledge.fm/246-2/)
 - [Zero-Knowledge Machine Learning](https://youtube.com/watch?v=a66iUDRvgWU) by [Jason Morton](http://www.jasonmorton.com/) (video)
+- [Modulus Labs](https://www.moduluslabs.xyz/) ([Twitter](https://twitter.com/ModulusLabs))
+  - [Chapter 1: How to Put Your AI On-Chain](https://medium.com/coinmonks/chapter-1-how-to-put-your-ai-on-chain-8af2db013c6b)
+  - [Chapter 2: Why Put Your AI On-Chain?](https://medium.com/@ModulusLabs/chapter-2-why-put-your-ai-on-chain-33b7625147b7)
+  - [Chapter 3: The World’s First On-Chain AI Trading Bot](https://medium.com/@ModulusLabs/chapter-3-the-worlds-first-on-chain-ai-trading-bot-c387afe8316c)
+  - [Chapter 4: Blockchains that Self-Improve](https://medium.com/@ModulusLabs/chapter-4-blockchains-that-self-improve-e9716c041f36)
+- [Trustless Verification of Machine Learning](https://medium.com/@danieldkang/trustless-verification-of-machine-learning-6f648fd8ba88) ([Daniel Kang](https://ddkang.github.io/), [Tatsunori Hashimoto](https://thashim.github.io/), [Ion Stoica](http://people.eecs.berkeley.edu/~istoica/), [Yi Sun](https://yisun.io/))
 
 ## Codebases
 
@@ -57,9 +63,13 @@ Here you can find a list of very popular resources to get started with machine l
 - [zk-ml/demo](https://github.com/zk-ml/demo) - [@liaopeiyuan](https://twitter.com/LiaoPeiyuan) (2021)
 - [CircomLib-ML](https://github.com/socathie/circomlib-ml) - [@socathie](https://twitter.com/CathieSoHK) (2022)
   - [Gitcoin Grant Proposal](https://gitcoin.co/grants/6847/zkmachinelearning-an-end-to-end-platform-to-bridge)
-- [proto-neural-zkp](https://github.com/worldcoin/proto-neural-zkp) - [@recmo](https://twitter.com/recmo) [@dcbuild3r](https://twitter.com/DCbuild3r) (2022)
+- [proto-neural-zkp](https://github.com/worldcoin/proto-neural-zkp) - [@recmo](https://twitter.com/recmo) 
+[@dcbuild3r](https://twitter.com/DCbuild3r) (2022)
+  - zkml experiments with plonky2 at Worldcoin
 - [RockyBot](https://github.com/Modulus-Labs/RockyBot) - [@ModulusLabs](https://twitter.com/ModulusLabs) (2022)
-- [halo2deeplearning](https://github.com/jasonmorton/halo2deeplearning) by [Jason Morton](https://science.psu.edu/math/people/jrm53) (2022)
+  - RockyBot is the first ever fully on-chain AI trading bot
+- [ezkl](https://github.com/zkonduit/ezkl) by [Jason Morton](https://science.psu.edu/math/people/jrm53) (2022)
+  - ezkl is a library and command-line tool for doing inference for deep learning models and other computational graphs in a zk-snark.
 
 ## Papers
 
@@ -76,6 +86,7 @@ Here you can find a list of very popular resources to get started with machine l
 - [Chenkai Weng, Kang Yang, Xiang Xie, Jonathan Katz, and Xiao Wang (2021). "Mystique: Efficient Conversions for Zero-Knowledge Proofs with Applications to Machine Learning"](https://eprint.iacr.org/2021/730) (slides)
 - [Jiasi Weng, Jian Weng, Member, IEEE, Gui Tang, Anjia Yang, Ming Li, Jia-Nan Liu (2022). pvCNN: Privacy-Preserving and Verifiable Convolutional Neural Network Testing](https://arxiv.org/abs/2201.09186)
 - [Zahra Ghodsi, Tianyu Gu, Siddharth Garg (2017). "SafetyNets: Verifiable Execution of Deep Neural Networks on an Untrusted Cloud"](https://arxiv.org/abs/1706.10268)
+- [Daniel Kang](https://ddkang.github.io/), [Tatsunori Hashimoto](https://thashim.github.io/), [Ion Stoica](http://people.eecs.berkeley.edu/~istoica/), [Yi Sun](https://yisun.io/) (2022). [Scaling up Trustless DNN Inference with Zero-Knowledge Proofs](https://arxiv.org/abs/2210.08674)
 
 ## Projects interested in ZKML
 
@@ -88,6 +99,7 @@ Here you can find a list of very popular resources to get started with machine l
 - [Risc Zero](https://www.risczero.com/) - The General Purpose Zero-Knowledge VM
 - [Supranational](https://www.supranational.net/) - A product and service company developing hardware accelerated cryptography for verifiable and confidential computing
 - [Ingonyama](https://twitter.com/Ingo_zk) (Hardware) - Zero Knowledge ASICs (ZPU)
+- [Zama.ai](https://www.zama.ai/) (FHE ML / FHE-ZK ML) - FHE tooling for machine learning, blockchain and more. ZK-FHE is an interesting research area. [FHE.org](https://fhe.org/) is a very interesting community with a lot of potential for collaboration.
 - [zkMachineLearning](https://gitcoin.co/grants/6847/zkmachinelearning-an-end-to-end-platform-to-bridge) - ZKML tooling for Circom
 
 ## Use cases
@@ -95,7 +107,14 @@ Here you can find a list of very popular resources to get started with machine l
 Decision tree for a use case that would use ZKML -> Intersection of {needs privacy, computational integrity} and {heuristic optimization problem solved by ml}.
 
 - Computational integrity
-  - Worldcoin
+  - [Modulus Labs](https://www.moduluslabs.xyz/)
+    - On-chain verifiable ML trading bot - [RockyBot](https://github.com/Modulus-Labs/RockyBot)
+    - Blockchains that self-improve vision (examples):
+      - Enhancing the [Lyra finance](https://www.lyra.finance/) options protocol AMM with intelligent features
+      - Creating a transparent AI-based reputation system for [Astraly](https://www.astraly.xyz/)
+      - Working on the technical breakthroughs needed for contract-level compliance tools using ML for [Aztec Protocol](https://aztec.network/) (a zk-rollup with privacy features)
+  - ML as a Service (MLaaS) transparency ([link](https://twitter.com/daniel_d_kang/status/1582519854405255168?s=20&t=16FXZixQvD5G_B9IFVzmaA))
+  - [Worldcoin](https://worldcoin.org/the-worldcoin-protocol)
     - Verifying that a user has created a valid and unique [WorldID](https://worldcoin.org/the-worldcoin-protocol) locally by running the IrisCode model on self-hosted biometric data and is calling [_addMember(uint256 groupId, uint256 identityCommitment)](https://github.com/semaphore-protocol/semaphore/blob/4e6be04729ed2d7e29461a3915877a66a2c9c4d2/contracts/base/SemaphoreGroups.sol#L43) function on the WorldID Semaphore identity group with a valid identityCommitment. -> Makes protocol more permissionless
     - Making the Orb trustless, provide proof that fraud filters are applied
     - Enable IrisCode upgradeability
