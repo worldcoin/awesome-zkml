@@ -11,7 +11,7 @@ We are in the process of bootstrapping a ZKML community where people can share r
 - Map out the general direction of ZKML - use cases / academic research
 - Find people that are able to support work in this domain with capital, manpower, research capacity (i.e. PhD students), engineers, etc.
 - Co-organize a Gitcoin side round for ZKML
-- Create some form of grants program to support further R&D and exisiting initiatives (think 0xPARC)
+- Create some form of grants program to support further R&D and existing initiatives (think 0xPARC)
 - Nerdsnipe researchers and engineers to work on ZKML
 - Start a sub-fund under a DAO/org earmarked for zkml.
 - Create educational materials for ZKML
