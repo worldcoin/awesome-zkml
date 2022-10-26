@@ -101,6 +101,7 @@ Here you can find a list of very popular resources to get started with machine l
 - [Ingonyama](https://twitter.com/Ingo_zk) (Hardware) - Zero Knowledge ASICs (ZPU)
 - [Zama.ai](https://www.zama.ai/) (FHE ML / FHE-ZK ML) - FHE tooling for machine learning, blockchain and more. ZK-FHE is an interesting research area. [FHE.org](https://fhe.org/) is a very interesting community with a lot of potential for collaboration.
 - [zkMachineLearning](https://gitcoin.co/grants/6847/zkmachinelearning-an-end-to-end-platform-to-bridge) - ZKML tooling for Circom
+- [Aleo](https://www.aleo.org/) - Platform for building fully private and programmable Web applications.
 
 ## Use cases
 
