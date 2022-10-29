@@ -44,6 +44,12 @@ Here you can find a list of very popular resources to get started with machine l
 
 ## Content
 
+### ZKML community calls
+
+We are organizing bi-weekly ZKML community calls. For details on when and where the next call is happening, check the pinned messages on our [Telegram channel](https://t.me/zkmlcommunity). Recorded versions of the calls are available on our [YouTube channel](https://www.youtube.com/channel/UCaAWNrJIVzJIcIAQoUCQ9rw) and notes summarizing what was discussed can be found [here](https://github.com/emilianobonassi/zkml-community-calls).
+
+- [ZKML community call #0](https://www.youtube.com/watch?v=XBCnZ0ssc84)
+
 - [Zero Knowledge Machine Learning](https://xn--2-umb.com/22/zk-ml/) - [Remco Bloemen](https://twitter.com/recmo)
 - [Zero-Knowledge Proofs and Their Applications to Machine Learning (video)](https://www.youtube.com/watch?v=g6FoZ47_EiQ)
 - [ZK Machine Learning](https://0xparc.org/blog/zk-mnist)
