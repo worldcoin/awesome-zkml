@@ -1,5 +1,7 @@
 # awesome-zkml
 
+Happy new year!
+
 A place where you can find content, codebases, scientific papers, projects and applications related to ZKML. Contributions and suggestions are always welcome, open issues or pull requests with any changes you want to be made and don't forget to join our Telegram community (link below).
 
 ## ZKML community
