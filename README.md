@@ -63,6 +63,7 @@ We are organizing bi-weekly ZKML community calls. For details on when and where 
   - [Chapter 2: Why Put Your AI On-Chain?](https://medium.com/@ModulusLabs/chapter-2-why-put-your-ai-on-chain-33b7625147b7)
   - [Chapter 3: The World’s First On-Chain AI Trading Bot](https://medium.com/@ModulusLabs/chapter-3-the-worlds-first-on-chain-ai-trading-bot-c387afe8316c)
   - [Chapter 4: Blockchains that Self-Improve](https://medium.com/@ModulusLabs/chapter-4-blockchains-that-self-improve-e9716c041f36)
+  - [Chapter 5: The Cost of Intelligence](https://medium.com/@ModulusLabs/chapter-5-the-cost-of-intelligence-da26dbf93307)
 - [Trustless Verification of Machine Learning](https://medium.com/@danieldkang/trustless-verification-of-machine-learning-6f648fd8ba88) ([Daniel Kang](https://ddkang.github.io/), [Tatsunori Hashimoto](https://thashim.github.io/), [Ion Stoica](http://people.eecs.berkeley.edu/~istoica/), [Yi Sun](https://yisun.io/))
 
 ## Codebases
@@ -96,6 +97,7 @@ We are organizing bi-weekly ZKML community calls. For details on when and where 
 - [Zahra Ghodsi, Tianyu Gu, Siddharth Garg (2017). "SafetyNets: Verifiable Execution of Deep Neural Networks on an Untrusted Cloud"](https://arxiv.org/abs/1706.10268)
 - [Daniel Kang](https://ddkang.github.io/), [Tatsunori Hashimoto](https://thashim.github.io/), [Ion Stoica](http://people.eecs.berkeley.edu/~istoica/), [Yi Sun](https://yisun.io/) (2022). [Scaling up Trustless DNN Inference with Zero-Knowledge Proofs](https://arxiv.org/abs/2210.08674)
 - [Haodi Wang, Thang Hoang (2022). ezDPS: An Efficient and Zero-Knowledge Machine Learning Inference Pipeline](https://arxiv.org/abs/2212.05428)
+- [Modulus Labs - The Cost of Intelligence: Proving Machine Learning Inference with Zero-Knowledge](https://drive.google.com/file/d/1tylpowpaqcOhKQtYolPlqvx6R2Gv4IzE/view)
 
 ## Projects interested in ZKML
 
