@@ -77,8 +77,10 @@ We are organizing bi-weekly ZKML community calls. For details on when and where 
   - zkml experiments with plonky2 at Worldcoin
 - [RockyBot](https://github.com/Modulus-Labs/RockyBot) - [@ModulusLabs](https://twitter.com/ModulusLabs) (2022)
   - RockyBot is the first ever fully on-chain AI trading bot
-- [ezkl](https://github.com/zkonduit/ezkl) by [Jason Morton](https://science.psu.edu/math/people/jrm53) (2022)
+- [ezkl](https://github.com/zkonduit/ezkl) by [Jason Morton](https://science.psu.edu/math/people/jrm53) (2022+)
   - ezkl is a library and command-line tool for doing inference for deep learning models and other computational graphs in a zk-snark.
+- [keras2circom](https://github.com/socathie/keras2circom) ([@socathie](https://twitter.com/CathieSoHK)) (2023)
+  - keras2circom is a python tool that transpiles a tf.keras model into a circom circuit.
 
 ## Papers
 
