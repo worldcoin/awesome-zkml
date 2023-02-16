@@ -32,6 +32,7 @@ Here you can find a list of very popular resources to get started with zero-know
 - [Resource: Awesome_Plonk](https://github.com/Fluidex/awesome-plonk)
 - [ZK research 0x](https://0xst.notion.site/ZK-Research-94ba836c3b2a4e2491a871364ee5b13b)
 - [ZK canon](https://a16zcrypto.com/zero-knowledge-canon/)
+- [Proofs, Args and ZK - Justin Thaler](https://people.cs.georgetown.edu/jthaler/ProofsArgsAndZK.pdf)
 
 ## Learn ML
 
