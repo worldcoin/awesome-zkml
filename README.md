@@ -53,6 +53,8 @@ We are organizing bi-weekly ZKML community calls. For details on when and where 
 
 - [ZKML community call #0](https://www.youtube.com/watch?v=XBCnZ0ssc84)
 
+### Articles 
+
 - [Zero Knowledge Machine Learning](https://xn--2-umb.com/22/zk-ml/) - [Remco Bloemen](https://twitter.com/recmo)
 - [Zero-Knowledge Proofs and Their Applications to Machine Learning (video)](https://www.youtube.com/watch?v=g6FoZ47_EiQ)
 - [ZK Machine Learning](https://0xparc.org/blog/zk-mnist)
@@ -66,6 +68,7 @@ We are organizing bi-weekly ZKML community calls. For details on when and where 
   - [Chapter 4: Blockchains that Self-Improve](https://medium.com/@ModulusLabs/chapter-4-blockchains-that-self-improve-e9716c041f36)
   - [Chapter 5: The Cost of Intelligence](https://medium.com/@ModulusLabs/chapter-5-the-cost-of-intelligence-da26dbf93307)
 - [Trustless Verification of Machine Learning](https://medium.com/@danieldkang/trustless-verification-of-machine-learning-6f648fd8ba88) ([Daniel Kang](https://ddkang.github.io/), [Tatsunori Hashimoto](https://thashim.github.io/), [Ion Stoica](http://people.eecs.berkeley.edu/~istoica/), [Yi Sun](https://yisun.io/))
+- [ZK Podcast - episode 265: Where ZK and ML intersect with Yi Sun and Daniel Kang](https://zeroknowledge.fm/265-2/)
 
 ## Codebases
 
