@@ -107,6 +107,7 @@ We are organizing bi-weekly ZKML community calls. For details on when and where 
 
 ## Projects interested in ZKML
 
+- [Axiom](https://twitter.com/axiom_xyz) - Axiom provides smart contracts trustless access to all on-chain data and arbitrary expressive compute over it. Like GPUs do for CPUs, Axiom augments blockchain consensus with zero-knowledge proofs
 - [0xPARC](https://0xparc.org/) - The 0xPARC Foundation promotes application-level innovation on Ethereum and other decentralized platforms
   - [zkMnist](https://0xparc.org/blog/zk-mnist)
 - [Worldcoin](https://worldcoin.org/) - A Privacy-Preserving Proof-of-Personhood Protocol
