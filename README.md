@@ -120,6 +120,7 @@ We are organizing bi-weekly ZKML community calls. For details on when and where 
 - [Zama.ai](https://www.zama.ai/) (FHE ML / FHE-ZK ML) - FHE tooling for machine learning, blockchain and more. ZK-FHE is an interesting research area. [FHE.org](https://fhe.org/) is a very interesting community with a lot of potential for collaboration.
 - [zkMachineLearning](https://gitcoin.co/grants/6847/zkmachinelearning-an-end-to-end-platform-to-bridge) - ZKML tooling for Circom
 - [Aleo](https://www.aleo.org/) - Platform for building fully private and programmable Web applications.
+- [Zator](https://github.com/lyronctk/zator) - Verified inference of a 512-layer neural network using recursive SNARKs.
 
 ## Use cases
 
