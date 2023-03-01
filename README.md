@@ -32,6 +32,7 @@ Here you can find a list of very popular resources to get started with zero-know
 - [Resource: Awesome_Plonk](https://github.com/Fluidex/awesome-plonk)
 - [ZK research 0x](https://0xst.notion.site/ZK-Research-94ba836c3b2a4e2491a871364ee5b13b)
 - [ZK canon](https://a16zcrypto.com/zero-knowledge-canon/)
+- [Proofs, Args and ZK - Justin Thaler](https://people.cs.georgetown.edu/jthaler/ProofsArgsAndZK.pdf)
 
 ## Learn ML
 
@@ -52,6 +53,8 @@ We are organizing bi-weekly ZKML community calls. For details on when and where 
 
 - [ZKML community call #0](https://www.youtube.com/watch?v=XBCnZ0ssc84)
 
+### Articles 
+
 - [Zero Knowledge Machine Learning](https://xn--2-umb.com/22/zk-ml/) - [Remco Bloemen](https://twitter.com/recmo)
 - [Zero-Knowledge Proofs and Their Applications to Machine Learning (video)](https://www.youtube.com/watch?v=g6FoZ47_EiQ)
 - [ZK Machine Learning](https://0xparc.org/blog/zk-mnist)
@@ -65,6 +68,8 @@ We are organizing bi-weekly ZKML community calls. For details on when and where 
   - [Chapter 4: Blockchains that Self-Improve](https://medium.com/@ModulusLabs/chapter-4-blockchains-that-self-improve-e9716c041f36)
   - [Chapter 5: The Cost of Intelligence](https://medium.com/@ModulusLabs/chapter-5-the-cost-of-intelligence-da26dbf93307)
 - [Trustless Verification of Machine Learning](https://medium.com/@danieldkang/trustless-verification-of-machine-learning-6f648fd8ba88) ([Daniel Kang](https://ddkang.github.io/), [Tatsunori Hashimoto](https://thashim.github.io/), [Ion Stoica](http://people.eecs.berkeley.edu/~istoica/), [Yi Sun](https://yisun.io/))
+- [ZK Podcast - episode 265: Where ZK and ML intersect with Yi Sun and Daniel Kang](https://zeroknowledge.fm/265-2/)
+- [Linear A Research](https://github.com/zk-ml/research)
 
 ## Codebases
 
@@ -77,8 +82,13 @@ We are organizing bi-weekly ZKML community calls. For details on when and where 
   - zkml experiments with plonky2 at Worldcoin
 - [RockyBot](https://github.com/Modulus-Labs/RockyBot) - [@ModulusLabs](https://twitter.com/ModulusLabs) (2022)
   - RockyBot is the first ever fully on-chain AI trading bot
-- [ezkl](https://github.com/zkonduit/ezkl) by [Jason Morton](https://science.psu.edu/math/people/jrm53) (2022)
+- [ezkl](https://github.com/zkonduit/ezkl) by [Jason Morton](https://science.psu.edu/math/people/jrm53) (2022+)
   - ezkl is a library and command-line tool for doing inference for deep learning models and other computational graphs in a zk-snark.
+- [keras2circom](https://github.com/socathie/keras2circom) ([@socathie](https://twitter.com/CathieSoHK)) (2023)
+  - keras2circom is a python tool that transpiles a tf.keras model into a circom circuit.
+- [Zator](https://github.com/lyronctk/zator) - Verified inference of a 512-layer neural network using recursive SNARKs.
+- [Linear A - tachikoma](https://github.com/zk-ml/tachikoma) (2022+)
+- [Linear A - uchikoma](https://github.com/zk-ml/uchikoma) (2022+)
 
 ## Papers
 
@@ -101,6 +111,7 @@ We are organizing bi-weekly ZKML community calls. For details on when and where 
 
 ## Projects interested in ZKML
 
+- [Axiom](https://twitter.com/axiom_xyz) - Axiom provides smart contracts trustless access to all on-chain data and arbitrary expressive compute over it. Like GPUs do for CPUs, Axiom augments blockchain consensus with zero-knowledge proofs
 - [0xPARC](https://0xparc.org/) - The 0xPARC Foundation promotes application-level innovation on Ethereum and other decentralized platforms
   - [zkMnist](https://0xparc.org/blog/zk-mnist)
 - [Worldcoin](https://worldcoin.org/) - A Privacy-Preserving Proof-of-Personhood Protocol
