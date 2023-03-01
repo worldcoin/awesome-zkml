@@ -85,6 +85,7 @@ We are organizing bi-weekly ZKML community calls. For details on when and where 
   - ezkl is a library and command-line tool for doing inference for deep learning models and other computational graphs in a zk-snark.
 - [keras2circom](https://github.com/socathie/keras2circom) ([@socathie](https://twitter.com/CathieSoHK)) (2023)
   - keras2circom is a python tool that transpiles a tf.keras model into a circom circuit.
+- [Zator](https://github.com/lyronctk/zator) - Verified inference of a 512-layer neural network using recursive SNARKs.
 
 ## Papers
 
