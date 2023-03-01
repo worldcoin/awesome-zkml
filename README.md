@@ -69,6 +69,7 @@ We are organizing bi-weekly ZKML community calls. For details on when and where 
   - [Chapter 5: The Cost of Intelligence](https://medium.com/@ModulusLabs/chapter-5-the-cost-of-intelligence-da26dbf93307)
 - [Trustless Verification of Machine Learning](https://medium.com/@danieldkang/trustless-verification-of-machine-learning-6f648fd8ba88) ([Daniel Kang](https://ddkang.github.io/), [Tatsunori Hashimoto](https://thashim.github.io/), [Ion Stoica](http://people.eecs.berkeley.edu/~istoica/), [Yi Sun](https://yisun.io/))
 - [ZK Podcast - episode 265: Where ZK and ML intersect with Yi Sun and Daniel Kang](https://zeroknowledge.fm/265-2/)
+- [Linear A Research](https://github.com/zk-ml/research)
 
 ## Codebases
 
@@ -86,6 +87,8 @@ We are organizing bi-weekly ZKML community calls. For details on when and where 
 - [keras2circom](https://github.com/socathie/keras2circom) ([@socathie](https://twitter.com/CathieSoHK)) (2023)
   - keras2circom is a python tool that transpiles a tf.keras model into a circom circuit.
 - [Zator](https://github.com/lyronctk/zator) - Verified inference of a 512-layer neural network using recursive SNARKs.
+- [Linear A - tachikoma](https://github.com/zk-ml/tachikoma) (2022+)
+- [Linear A - uchikoma](https://github.com/zk-ml/uchikoma) (2022+)
 
 ## Papers
 
