@@ -70,6 +70,7 @@ We are organizing bi-weekly ZKML community calls. For details on when and where 
 - [Trustless Verification of Machine Learning](https://medium.com/@danieldkang/trustless-verification-of-machine-learning-6f648fd8ba88) ([Daniel Kang](https://ddkang.github.io/), [Tatsunori Hashimoto](https://thashim.github.io/), [Ion Stoica](http://people.eecs.berkeley.edu/~istoica/), [Yi Sun](https://yisun.io/))
 - [ZK Podcast - episode 265: Where ZK and ML intersect with Yi Sun and Daniel Kang](https://zeroknowledge.fm/265-2/)
 - [Linear A Research](https://github.com/zk-ml/research)
+- [An introduction to zero-knowledge machine learning - Worldcoin](https://worldcoin.org/blog/engineering/intro-to-zkml)
 
 ## Codebases
 
