@@ -88,6 +88,8 @@ We are organizing bi-weekly ZKML community calls. For details on when and where 
 - [keras2circom](https://github.com/socathie/keras2circom) ([@socathie](https://twitter.com/CathieSoHK)) (2023)
   - keras2circom is a python tool that transpiles a tf.keras model into a circom circuit.
 - [Zator](https://github.com/lyronctk/zator) - Verified inference of a 512-layer neural network using recursive SNARKs.
+- [Otti](https://github.com/eniac/otti) (2022)
+  - Compiler and zkSNARK for optimization problems including LP, SDP, SGD. Includes ZK proof of the full training of a perceptron on real-world datasets.
 - [Linear A - tachikoma](https://github.com/zk-ml/tachikoma) (2022+)
 - [Linear A - uchikoma](https://github.com/zk-ml/uchikoma) (2022+)
 
@@ -105,6 +107,7 @@ We are organizing bi-weekly ZKML community calls. For details on when and where 
 - [Tianyi Liu, Xiang Xie, and Yupeng Zhang (2021). "zkCNN: Zero Knowledge Proofs for Convolutional Neural Network Predictions and Accuracy"](https://eprint.iacr.org/2021/673)
 - [Chenkai Weng, Kang Yang, Xiang Xie, Jonathan Katz, and Xiao Wang (2021). "Mystique: Efficient Conversions for Zero-Knowledge Proofs with Applications to Machine Learning"](https://eprint.iacr.org/2021/730) (slides)
 - [Jiasi Weng, Jian Weng, Member, IEEE, Gui Tang, Anjia Yang, Ming Li, Jia-Nan Liu (2022). pvCNN: Privacy-Preserving and Verifiable Convolutional Neural Network Testing](https://arxiv.org/abs/2201.09186)
+- [Sebastian Angel, Andrew J. Blumberg, Eleftherios Ioannidis, Jess woods (2022). Efficient Representation of Numerical Optimization Problems for SNARKs](https://eprint.iacr.org/2021/1436.pdf)
 - [Zahra Ghodsi, Tianyu Gu, Siddharth Garg (2017). "SafetyNets: Verifiable Execution of Deep Neural Networks on an Untrusted Cloud"](https://arxiv.org/abs/1706.10268)
 - [Daniel Kang](https://ddkang.github.io/), [Tatsunori Hashimoto](https://thashim.github.io/), [Ion Stoica](http://people.eecs.berkeley.edu/~istoica/), [Yi Sun](https://yisun.io/) (2022). [Scaling up Trustless DNN Inference with Zero-Knowledge Proofs](https://arxiv.org/abs/2210.08674)
 - [Haodi Wang, Thang Hoang (2022). ezDPS: An Efficient and Zero-Knowledge Machine Learning Inference Pipeline](https://arxiv.org/abs/2212.05428)
