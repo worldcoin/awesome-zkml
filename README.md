@@ -53,7 +53,7 @@ We are organizing bi-weekly ZKML community calls. For details on when and where 
 
 - [ZKML community call #0](https://www.youtube.com/watch?v=XBCnZ0ssc84)
 
-### Articles 
+### Articles and podcasts
 
 - [Zero Knowledge Machine Learning](https://xn--2-umb.com/22/zk-ml/) - [Remco Bloemen](https://twitter.com/recmo)
 - [Zero-Knowledge Proofs and Their Applications to Machine Learning (video)](https://www.youtube.com/watch?v=g6FoZ47_EiQ)
@@ -69,6 +69,9 @@ We are organizing bi-weekly ZKML community calls. For details on when and where 
   - [Chapter 5: The Cost of Intelligence](https://medium.com/@ModulusLabs/chapter-5-the-cost-of-intelligence-da26dbf93307)
 - [Trustless Verification of Machine Learning](https://medium.com/@danieldkang/trustless-verification-of-machine-learning-6f648fd8ba88) ([Daniel Kang](https://ddkang.github.io/), [Tatsunori Hashimoto](https://thashim.github.io/), [Ion Stoica](http://people.eecs.berkeley.edu/~istoica/), [Yi Sun](https://yisun.io/))
 - [ZK Podcast - episode 265: Where ZK and ML intersect with Yi Sun and Daniel Kang](https://zeroknowledge.fm/265-2/)
+- [Zero Gravity (The Weight is Over) - ZKHack Lisbon](https://hackmd.io/@benjaminwilson/zero-gravity)
+- [Zero-Knowledge Decisition Tree Prediction (ZK-DTP) - ZKHack Lisbon](https://devfolio.co/projects/zero-knowledge-decision-tree-prediction-zkdtp-6b5f)
+- [Checks and balances: Machine learning and zero-knowledge proofs](https://a16zcrypto.com/content/article/checks-and-balances-machine-learning-and-zero-knowledge-proofs/) - [Elena Burger @ a16z](https://twitter.com/virtualelena/)
 
 ## Codebases
 
@@ -76,8 +79,8 @@ We are organizing bi-weekly ZKML community calls. For details on when and where 
 - [zk-ml/demo](https://github.com/zk-ml/demo) - [@liaopeiyuan](https://twitter.com/LiaoPeiyuan) (2021)
 - [CircomLib-ML](https://github.com/socathie/circomlib-ml) - [@socathie](https://twitter.com/CathieSoHK) (2022)
   - [Gitcoin Grant Proposal](https://gitcoin.co/grants/6847/zkmachinelearning-an-end-to-end-platform-to-bridge)
-- [proto-neural-zkp](https://github.com/worldcoin/proto-neural-zkp) - [@recmo](https://twitter.com/recmo) 
-[@dcbuild3r](https://twitter.com/DCbuild3r) (2022)
+- [proto-neural-zkp](https://github.com/worldcoin/proto-neural-zkp) - [@recmo](https://twitter.com/recmo)
+  [@dcbuild3r](https://twitter.com/DCbuild3r) (2022)
   - zkml experiments with plonky2 at Worldcoin
 - [RockyBot](https://github.com/Modulus-Labs/RockyBot) - [@ModulusLabs](https://twitter.com/ModulusLabs) (2022)
   - RockyBot is the first ever fully on-chain AI trading bot
@@ -85,6 +88,8 @@ We are organizing bi-weekly ZKML community calls. For details on when and where 
   - ezkl is a library and command-line tool for doing inference for deep learning models and other computational graphs in a zk-snark.
 - [keras2circom](https://github.com/socathie/keras2circom) ([@socathie](https://twitter.com/CathieSoHK)) (2023)
   - keras2circom is a python tool that transpiles a tf.keras model into a circom circuit.
+- [zk-dtp](https://github.com/only4sim/myproject) - Zero Knowledge Decision Tree Predict is designed to address this pressing issue by offering privacy-preserving predictions using decision tree models, built on top of RISC Zero's zkVM.
+- [zkp-gravity/0g](https://github.com/zkp-gravity/0g) - ZeroGravity - Zero Gravity is a system for proving an inference run (i.e. a classification) for a pre-trained, public Weightless NN and a private input. (2023)
 
 ## Papers
 
@@ -134,7 +139,7 @@ Decision tree for a use case that would use ZKML -> Intersection of {needs priva
       - Working on the technical breakthroughs needed for contract-level compliance tools using ML for [Aztec Protocol](https://aztec.network/) (a zk-rollup with privacy features)
   - ML as a Service (MLaaS) transparency ([link](https://twitter.com/daniel_d_kang/status/1582519854405255168?s=20&t=16FXZixQvD5G_B9IFVzmaA))
   - [Worldcoin](https://worldcoin.org/the-worldcoin-protocol)
-    - Verifying that a user has created a valid and unique [WorldID](https://worldcoin.org/the-worldcoin-protocol) locally by running the IrisCode model on self-hosted biometric data and is calling [_addMember(uint256 groupId, uint256 identityCommitment)](https://github.com/semaphore-protocol/semaphore/blob/4e6be04729ed2d7e29461a3915877a66a2c9c4d2/contracts/base/SemaphoreGroups.sol#L43) function on the WorldID Semaphore identity group with a valid identityCommitment. -> Makes protocol more permissionless
+    - Verifying that a user has created a valid and unique [WorldID](https://worldcoin.org/the-worldcoin-protocol) locally by running the IrisCode model on self-hosted biometric data and is calling [\_addMember(uint256 groupId, uint256 identityCommitment)](https://github.com/semaphore-protocol/semaphore/blob/4e6be04729ed2d7e29461a3915877a66a2c9c4d2/contracts/base/SemaphoreGroups.sol#L43) function on the WorldID Semaphore identity group with a valid identityCommitment. -> Makes protocol more permissionless
     - Making the Orb trustless, provide proof that fraud filters are applied
     - Enable IrisCode upgradeability
   - ZK anomaly/fraud detection
