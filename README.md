@@ -71,6 +71,7 @@ We are organizing bi-weekly ZKML community calls. For details on when and where 
 - [ZK Podcast - episode 265: Where ZK and ML intersect with Yi Sun and Daniel Kang](https://zeroknowledge.fm/265-2/)
 - [Zero Gravity (The Weight is Over) - ZKHack Lisbon](https://hackmd.io/@benjaminwilson/zero-gravity)
 - [Zero-Knowledge Decisition Tree Prediction (ZK-DTP) - ZKHack Lisbon](https://devfolio.co/projects/zero-knowledge-decision-tree-prediction-zkdtp-6b5f)
+- [Open-sourcing zkml: Trustless Machine Learning for All](https://medium.com/@danieldkang/open-sourcing-zkml-trustless-machine-learning-for-all-f5ee1dbf2499) - [Daniel Kang](https://twitter.com/daniel_d_kang)
 - [Checks and balances: Machine learning and zero-knowledge proofs](https://a16zcrypto.com/content/article/checks-and-balances-machine-learning-and-zero-knowledge-proofs/) - [Elena Burger @ a16z](https://twitter.com/virtualelena/)
 
 ## Codebases
@@ -90,6 +91,7 @@ We are organizing bi-weekly ZKML community calls. For details on when and where 
   - keras2circom is a python tool that transpiles a tf.keras model into a circom circuit.
 - [zk-dtp](https://github.com/only4sim/myproject) - Zero Knowledge Decision Tree Predict is designed to address this pressing issue by offering privacy-preserving predictions using decision tree models, built on top of RISC Zero's zkVM.
 - [zkp-gravity/0g](https://github.com/zkp-gravity/0g) - ZeroGravity - Zero Gravity is a system for proving an inference run (i.e. a classification) for a pre-trained, public Weightless NN and a private input. (2023)
+- [ddkang/zkml](https://github.com/ddkang/zkml) - zkml is a framework for constructing proofs of ML model execution in ZK-SNARKs.
 
 ## Papers
 
