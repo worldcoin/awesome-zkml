@@ -69,6 +69,8 @@ We are organizing bi-weekly ZKML community calls. For details on when and where 
   - [Chapter 5: The Cost of Intelligence](https://medium.com/@ModulusLabs/chapter-5-the-cost-of-intelligence-da26dbf93307)
 - [Trustless Verification of Machine Learning](https://medium.com/@danieldkang/trustless-verification-of-machine-learning-6f648fd8ba88) ([Daniel Kang](https://ddkang.github.io/), [Tatsunori Hashimoto](https://thashim.github.io/), [Ion Stoica](http://people.eecs.berkeley.edu/~istoica/), [Yi Sun](https://yisun.io/))
 - [ZK Podcast - episode 265: Where ZK and ML intersect with Yi Sun and Daniel Kang](https://zeroknowledge.fm/265-2/)
+- [Linear A Research](https://github.com/zk-ml/research)
+- [An introduction to zero-knowledge machine learning - Worldcoin](https://worldcoin.org/blog/engineering/intro-to-zkml)
 - [Zero Gravity (The Weight is Over) - ZKHack Lisbon](https://hackmd.io/@benjaminwilson/zero-gravity)
 - [Zero-Knowledge Decisition Tree Prediction (ZK-DTP) - ZKHack Lisbon](https://devfolio.co/projects/zero-knowledge-decision-tree-prediction-zkdtp-6b5f)
 - [Open-sourcing zkml: Trustless Machine Learning for All](https://medium.com/@danieldkang/open-sourcing-zkml-trustless-machine-learning-for-all-f5ee1dbf2499) - [Daniel Kang](https://twitter.com/daniel_d_kang)
@@ -89,6 +91,9 @@ We are organizing bi-weekly ZKML community calls. For details on when and where 
   - ezkl is a library and command-line tool for doing inference for deep learning models and other computational graphs in a zk-snark.
 - [keras2circom](https://github.com/socathie/keras2circom) ([@socathie](https://twitter.com/CathieSoHK)) (2023)
   - keras2circom is a python tool that transpiles a tf.keras model into a circom circuit.
+- [Zator](https://github.com/lyronctk/zator) - Verified inference of a 512-layer neural network using recursive SNARKs.
+- [Linear A - tachikoma](https://github.com/zk-ml/tachikoma) (2022+)
+- [Linear A - uchikoma](https://github.com/zk-ml/uchikoma) (2022+)
 - [zk-dtp](https://github.com/only4sim/myproject) - Zero Knowledge Decision Tree Predict is designed to address this pressing issue by offering privacy-preserving predictions using decision tree models, built on top of RISC Zero's zkVM.
 - [zkp-gravity/0g](https://github.com/zkp-gravity/0g) - ZeroGravity - Zero Gravity is a system for proving an inference run (i.e. a classification) for a pre-trained, public Weightless NN and a private input. (2023)
 - [ddkang/zkml](https://github.com/ddkang/zkml) - zkml is a framework for constructing proofs of ML model execution in ZK-SNARKs.
