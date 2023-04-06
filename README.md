@@ -108,7 +108,6 @@ We are organizing bi-weekly ZKML community calls. For details on when and where 
 - [Chenkai Weng, Kang Yang, Xiang Xie, Jonathan Katz, and Xiao Wang (2021). "Mystique: Efficient Conversions for Zero-Knowledge Proofs with Applications to Machine Learning"](https://eprint.iacr.org/2021/730) (slides)
 - [Jiasi Weng, Jian Weng, Member, IEEE, Gui Tang, Anjia Yang, Ming Li, Jia-Nan Liu (2022). pvCNN: Privacy-Preserving and Verifiable Convolutional Neural Network Testing](https://arxiv.org/abs/2201.09186)
 - [Sebastian Angel, Andrew J. Blumberg, Eleftherios Ioannidis, Jess woods (2022). Efficient Representation of Numerical Optimization Problems for SNARKs](https://eprint.iacr.org/2021/1436.pdf)
-- [Zahra Ghodsi, Tianyu Gu, Siddharth Garg (2017). "SafetyNets: Verifiable Execution of Deep Neural Networks on an Untrusted Cloud"](https://arxiv.org/abs/1706.10268)
 - [Daniel Kang](https://ddkang.github.io/), [Tatsunori Hashimoto](https://thashim.github.io/), [Ion Stoica](http://people.eecs.berkeley.edu/~istoica/), [Yi Sun](https://yisun.io/) (2022). [Scaling up Trustless DNN Inference with Zero-Knowledge Proofs](https://arxiv.org/abs/2210.08674)
 - [Haodi Wang, Thang Hoang (2022). ezDPS: An Efficient and Zero-Knowledge Machine Learning Inference Pipeline](https://arxiv.org/abs/2212.05428)
 - [Modulus Labs - The Cost of Intelligence: Proving Machine Learning Inference with Zero-Knowledge](https://drive.google.com/file/d/1tylpowpaqcOhKQtYolPlqvx6R2Gv4IzE/view)
