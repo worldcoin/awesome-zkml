@@ -75,12 +75,13 @@ We are organizing bi-weekly ZKML community calls. For details on when and where 
 - [Zero-Knowledge Decisition Tree Prediction (ZK-DTP) - ZKHack Lisbon](https://devfolio.co/projects/zero-knowledge-decision-tree-prediction-zkdtp-6b5f)
 - [Open-sourcing zkml: Trustless Machine Learning for All](https://medium.com/@danieldkang/open-sourcing-zkml-trustless-machine-learning-for-all-f5ee1dbf2499) - [Daniel Kang](https://twitter.com/daniel_d_kang)
 - [Checks and balances: Machine learning and zero-knowledge proofs](https://a16zcrypto.com/content/article/checks-and-balances-machine-learning-and-zero-knowledge-proofs/) - [Elena Burger @ a16z](https://twitter.com/virtualelena/)
+- [ZKML: Bridging AI/ML and Web3 with Zero-Knowledge Proofs](https://hackmd.io/@cathie/zkml) - [Cathie So](https://twitter.com/drCathieSo_eth)
 
 ## Codebases
 
 - [zk-mnist](https://github.com/0xZKML/zk-mnist) - [@hopanml](https://twitter.com/hopanml) [@sunfishstanford](https://twitter.com/fho888) [@henripal](https://twitter.com/henripal) (2022)
 - [zk-ml/demo](https://github.com/zk-ml/demo) - [@liaopeiyuan](https://twitter.com/LiaoPeiyuan) (2021)
-- [CircomLib-ML](https://github.com/socathie/circomlib-ml) - [@socathie](https://twitter.com/CathieSoHK) (2022)
+- [circomlib-ml](https://github.com/socathie/circomlib-ml) - [@socathie](https://twitter.com/drCathieSo_eth) (2022)
   - [Gitcoin Grant Proposal](https://gitcoin.co/grants/6847/zkmachinelearning-an-end-to-end-platform-to-bridge)
 - [proto-neural-zkp](https://github.com/worldcoin/proto-neural-zkp) - [@recmo](https://twitter.com/recmo)
   [@dcbuild3r](https://twitter.com/DCbuild3r) (2022)
@@ -89,7 +90,7 @@ We are organizing bi-weekly ZKML community calls. For details on when and where 
   - RockyBot is the first ever fully on-chain AI trading bot
 - [ezkl](https://github.com/zkonduit/ezkl) by [Jason Morton](https://science.psu.edu/math/people/jrm53) (2022+)
   - ezkl is a library and command-line tool for doing inference for deep learning models and other computational graphs in a zk-snark.
-- [keras2circom](https://github.com/socathie/keras2circom) ([@socathie](https://twitter.com/CathieSoHK)) (2023)
+- [keras2circom](https://github.com/socathie/keras2circom) ([@socathie](https://twitter.com/drCathieSo_eth)) (2023)
   - keras2circom is a python tool that transpiles a tf.keras model into a circom circuit.
 - [Zator](https://github.com/lyronctk/zator) - Verified inference of a 512-layer neural network using recursive SNARKs.
 - [Otti](https://github.com/eniac/otti) (2022)
@@ -99,6 +100,8 @@ We are organizing bi-weekly ZKML community calls. For details on when and where 
 - [zk-dtp](https://github.com/only4sim/myproject) - Zero Knowledge Decision Tree Predict is designed to address this pressing issue by offering privacy-preserving predictions using decision tree models, built on top of RISC Zero's zkVM.
 - [zkp-gravity/0g](https://github.com/zkp-gravity/0g) - ZeroGravity - Zero Gravity is a system for proving an inference run (i.e. a classification) for a pre-trained, public Weightless NN and a private input. (2023)
 - [ddkang/zkml](https://github.com/ddkang/zkml) - zkml is a framework for constructing proofs of ML model execution in ZK-SNARKs.
+- [ZKaggle](https://github.com/z-kaggle/ZKaggle) and [ZKaggleV2](https://github.com/socathie/ZKaggleV2) - [@socathie](https://twitter.com/drCathieSo_eth) (2023)
+  - POC of a decentralized bounty platform for hosting, verifying, and paying out bounties, similar to Kaggle, but with the added benefit of privacy preservation
 
 ## Papers
 
@@ -134,6 +137,7 @@ We are organizing bi-weekly ZKML community calls. For details on when and where 
 - [Zama.ai](https://www.zama.ai/) (FHE ML / FHE-ZK ML) - FHE tooling for machine learning, blockchain and more. ZK-FHE is an interesting research area. [FHE.org](https://fhe.org/) is a very interesting community with a lot of potential for collaboration.
 - [zkMachineLearning](https://gitcoin.co/grants/6847/zkmachinelearning-an-end-to-end-platform-to-bridge) - ZKML tooling for Circom
 - [Aleo](https://www.aleo.org/) - Platform for building fully private and programmable Web applications.
+- [PSE team](https://appliedzkp.org/) @ Ethereum Foundation - Some ZKML research initiatives [here](https://hackmd.io/@cathie/zkml-research)
 
 ## Use cases
 
