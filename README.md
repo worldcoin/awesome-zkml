@@ -76,6 +76,9 @@ We are organizing bi-weekly ZKML community calls. For details on when and where 
 - [Open-sourcing zkml: Trustless Machine Learning for All](https://medium.com/@danieldkang/open-sourcing-zkml-trustless-machine-learning-for-all-f5ee1dbf2499) - [Daniel Kang](https://twitter.com/daniel_d_kang)
 - [Checks and balances: Machine learning and zero-knowledge proofs](https://a16zcrypto.com/content/article/checks-and-balances-machine-learning-and-zero-knowledge-proofs/) - [Elena Burger @ a16z](https://twitter.com/virtualelena/)
 - [ZKML: Bridging AI/ML and Web3 with Zero-Knowledge Proofs](https://hackmd.io/@cathie/zkml) - [Cathie So](https://twitter.com/drCathieSo_eth)
+- [Do language models possess knowledge (soundness)?](https://hackmd.io/@pinged/zk-and-llms) - [Tarun Chitra](https://twitter.com/tarunchitra)
+- [Balancing the Power of AI/ML: The Role of ZK and Blockchain - SevenX Ventures](https://mirror.xyz/sevenxventures.eth/3USbrj7kcK7lyq_7upA4iyWV5pWMII7KrM40z5zpEXo)
+- [The Ultimate Guide to the ZKML ecosystem (twitter thread)](https://twitter.com/Louissongyz/status/1658087354773671936?s=20) - [SevenX ventures](https://twitter.com/SevenXVentures)
 
 ## Codebases
 
@@ -123,6 +126,8 @@ We are organizing bi-weekly ZKML community calls. For details on when and where 
 - [Modulus Labs - The Cost of Intelligence: Proving Machine Learning Inference with Zero-Knowledge](https://drive.google.com/file/d/1tylpowpaqcOhKQtYolPlqvx6R2Gv4IzE/view)
 
 ## Projects interested in ZKML
+
+![ZKML ecosystem by SevenX ventures](./zkml-ecosystem.jpeg)
 
 - [Axiom](https://twitter.com/axiom_xyz) - Axiom provides smart contracts trustless access to all on-chain data and arbitrary expressive compute over it. Like GPUs do for CPUs, Axiom augments blockchain consensus with zero-knowledge proofs
 - [0xPARC](https://0xparc.org/) - The 0xPARC Foundation promotes application-level innovation on Ethereum and other decentralized platforms
