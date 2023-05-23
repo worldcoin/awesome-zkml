@@ -79,6 +79,7 @@ We are organizing bi-weekly ZKML community calls. For details on when and where 
 - [Do language models possess knowledge (soundness)?](https://hackmd.io/@pinged/zk-and-llms) - [Tarun Chitra](https://twitter.com/tarunchitra)
 - [Balancing the Power of AI/ML: The Role of ZK and Blockchain - SevenX Ventures](https://mirror.xyz/sevenxventures.eth/3USbrj7kcK7lyq_7upA4iyWV5pWMII7KrM40z5zpEXo)
 - [The Ultimate Guide to the ZKML ecosystem (twitter thread)](https://twitter.com/Louissongyz/status/1658087354773671936?s=20) - [SevenX ventures](https://twitter.com/SevenXVentures)
+- [Verified Execution of GPT, Bert, CLIP, and more](https://medium.com/@danieldkang/verified-execution-of-gpt-bert-clip-and-more-6acb693fd55f) - [Daniel Kang](https://twitter.com/daniel_d_kang)
 
 ## Codebases
 
