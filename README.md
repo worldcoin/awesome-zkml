@@ -80,6 +80,7 @@ We are organizing bi-weekly ZKML community calls. For details on when and where 
 - [Balancing the Power of AI/ML: The Role of ZK and Blockchain - SevenX Ventures](https://mirror.xyz/sevenxventures.eth/3USbrj7kcK7lyq_7upA4iyWV5pWMII7KrM40z5zpEXo)
 - [The Ultimate Guide to the ZKML ecosystem (twitter thread)](https://twitter.com/Louissongyz/status/1658087354773671936?s=20) - [SevenX ventures](https://twitter.com/SevenXVentures)
 - [Verified Execution of GPT, Bert, CLIP, and more](https://medium.com/@danieldkang/verified-execution-of-gpt-bert-clip-and-more-6acb693fd55f) - [Daniel Kang](https://twitter.com/daniel_d_kang)
+- [zkML: Evolving the Intelligence of Smart Contracts Through Zero-Knowledge Cryptography - 1kx](https://mirror.xyz/1kx.eth/q0s9RCH43JCDq8Z2w2Zo6S5SYcFt9ZQaRITzR4G7a_k)
 
 ## Codebases
 
