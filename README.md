@@ -14,7 +14,7 @@ We are in the process of bootstrapping a ZKML community where people can share r
 - Find people that are able to support work in this domain with capital, manpower, research capacity (i.e. PhD students), engineers, etc.
 - Co-organize a Gitcoin side round for ZKML
 - Create some form of grants program to support further R&D and existing initiatives (think 0xPARC)
-- Nerdsnipe researchers and engineers to work on ZKML
+- Nerd-snipe researchers and engineers to work on ZKML
 - Start a sub-fund under a DAO/org earmarked for zkml.
 - Create educational materials for ZKML
 - Organize ZKML events (online and in-person)
@@ -72,7 +72,7 @@ We are organizing bi-weekly ZKML community calls. For details on when and where 
 - [Linear A Research](https://github.com/zk-ml/research)
 - [An introduction to zero-knowledge machine learning - Worldcoin](https://worldcoin.org/blog/engineering/intro-to-zkml)
 - [Zero Gravity (The Weight is Over) - ZKHack Lisbon](https://hackmd.io/@benjaminwilson/zero-gravity)
-- [Zero-Knowledge Decisition Tree Prediction (ZK-DTP) - ZKHack Lisbon](https://devfolio.co/projects/zero-knowledge-decision-tree-prediction-zkdtp-6b5f)
+- [Zero-Knowledge Decision Tree Prediction (ZK-DTP) - ZKHack Lisbon](https://devfolio.co/projects/zero-knowledge-decision-tree-prediction-zkdtp-6b5f)
 - [Open-sourcing zkml: Trustless Machine Learning for All](https://medium.com/@danieldkang/open-sourcing-zkml-trustless-machine-learning-for-all-f5ee1dbf2499) - [Daniel Kang](https://twitter.com/daniel_d_kang)
 - [Checks and balances: Machine learning and zero-knowledge proofs](https://a16zcrypto.com/content/article/checks-and-balances-machine-learning-and-zero-knowledge-proofs/) - [Elena Burger @ a16z](https://twitter.com/virtualelena/)
 - [ZKML: Bridging AI/ML and Web3 with Zero-Knowledge Proofs](https://hackmd.io/@cathie/zkml) - [Cathie So](https://twitter.com/drCathieSo_eth)
