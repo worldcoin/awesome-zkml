@@ -145,6 +145,7 @@ We are organizing bi-weekly ZKML community calls. For details on when and where 
 - [zkMachineLearning](https://gitcoin.co/grants/6847/zkmachinelearning-an-end-to-end-platform-to-bridge) - ZKML tooling for Circom
 - [Aleo](https://www.aleo.org/) - Platform for building fully private and programmable Web applications.
 - [PSE team](https://appliedzkp.org/) @ Ethereum Foundation - Some ZKML research initiatives [here](https://hackmd.io/@cathie/zkml-research)
+- [Mind Network] (https://mindnetwork.xyz/) - Zero Trust Data Lake as a Privacy-preserving data layer to ensure data ownership and security for ZKML
 
 ## Use cases
 
