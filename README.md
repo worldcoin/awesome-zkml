@@ -2,11 +2,11 @@
 
 Happy new year!
 
-A place where you can find content, codebases, scientific papers, projects and applications related to ZKML. Contributions and suggestions are always welcome, open issues or pull requests with any changes you want to be made and don't forget to join our Telegram community (link below).
+A place where you can find content, codebases, scientific papers, projects and applications related to ZKML. We always appreciate contributions and suggestions. If you have any changes you'd like to suggest, please feel free to open an issue or submit a pull request. Also, don't forget to join our Telegram community (link provided below).
 
 ## ZKML community
 
-We are in the process of bootstrapping a ZKML community where people can share research ideas, code they are working on and potential applications of this nascent technology. If you are interested in joining, check out our [Telegram](https://t.me/zkmlcommunity). There are few ideas we have come up with for the community:
+We are in the process of bootstrapping a ZKML community where people can share research ideas, code they are working on and potential applications of this nascent technology. If you are interested in joining, check out our [Telegram](https://t.me/zkmlcommunity). There are a few ideas we have come up with for the community:
 
 - Create a group of people working on or that are interested in doing research in the ZKML domain.
 - See what everyone is working on and find intersections where a potential for collaboration could appear.
@@ -14,7 +14,7 @@ We are in the process of bootstrapping a ZKML community where people can share r
 - Find people that are able to support work in this domain with capital, manpower, research capacity (i.e. PhD students), engineers, etc.
 - Co-organize a Gitcoin side round for ZKML
 - Create some form of grants program to support further R&D and existing initiatives (think 0xPARC)
-- Nerdsnipe researchers and engineers to work on ZKML
+- Nerd-snipe researchers and engineers to work on ZKML
 - Start a sub-fund under a DAO/org earmarked for zkml.
 - Create educational materials for ZKML
 - Organize ZKML events (online and in-person)
@@ -72,15 +72,16 @@ We are organizing bi-weekly ZKML community calls. For details on when and where 
 - [Linear A Research](https://github.com/zk-ml/research)
 - [An introduction to zero-knowledge machine learning - Worldcoin](https://worldcoin.org/blog/engineering/intro-to-zkml)
 - [Zero Gravity (The Weight is Over) - ZKHack Lisbon](https://hackmd.io/@benjaminwilson/zero-gravity)
-- [Zero-Knowledge Decisition Tree Prediction (ZK-DTP) - ZKHack Lisbon](https://devfolio.co/projects/zero-knowledge-decision-tree-prediction-zkdtp-6b5f)
+- [Zero-Knowledge Decision Tree Prediction (ZK-DTP) - ZKHack Lisbon](https://devfolio.co/projects/zero-knowledge-decision-tree-prediction-zkdtp-6b5f)
 - [Open-sourcing zkml: Trustless Machine Learning for All](https://medium.com/@danieldkang/open-sourcing-zkml-trustless-machine-learning-for-all-f5ee1dbf2499) - [Daniel Kang](https://twitter.com/daniel_d_kang)
 - [Checks and balances: Machine learning and zero-knowledge proofs](https://a16zcrypto.com/content/article/checks-and-balances-machine-learning-and-zero-knowledge-proofs/) - [Elena Burger @ a16z](https://twitter.com/virtualelena/)
 - [ZKML: Bridging AI/ML and Web3 with Zero-Knowledge Proofs](https://hackmd.io/@cathie/zkml) - [Cathie So](https://twitter.com/drCathieSo_eth)
 - [Do language models possess knowledge (soundness)?](https://hackmd.io/@pinged/zk-and-llms) - [Tarun Chitra](https://twitter.com/tarunchitra)
 - [Balancing the Power of AI/ML: The Role of ZK and Blockchain - SevenX Ventures](https://mirror.xyz/sevenxventures.eth/3USbrj7kcK7lyq_7upA4iyWV5pWMII7KrM40z5zpEXo)
-- [The Ultimate Guide to the ZKML ecosystem (twitter thread)](https://twitter.com/Louissongyz/status/1658087354773671936?s=20) - [SevenX ventures](https://twitter.com/SevenXVentures)
+- [The Ultimate Guide to the ZKML ecosystem (Twitter thread)](https://twitter.com/Louissongyz/status/1658087354773671936?s=20) - [SevenX ventures](https://twitter.com/SevenXVentures)
 - [Verified Execution of GPT, Bert, CLIP, and more](https://medium.com/@danieldkang/verified-execution-of-gpt-bert-clip-and-more-6acb693fd55f) - [Daniel Kang](https://twitter.com/daniel_d_kang)
 - [zkML: Evolving the Intelligence of Smart Contracts Through Zero-Knowledge Cryptography - 1kx](https://mirror.xyz/1kx.eth/q0s9RCH43JCDq8Z2w2Zo6S5SYcFt9ZQaRITzR4G7a_k)
+- [Dcbuilder - Zero-Knowledge Machine Learning and its use cases](https://www.youtube.com/watch?v=f4X841gDnwY) (Jul 2023)
 - [TensorPlonk: A “GPU” for ZKML, Delivering 1,000x Speedups](https://medium.com/@danieldkang/tensorplonk-a-gpu-for-zkml-delivering-1-000x-speedups-d1ab0ad27e1c) - [Daniel Kang](https://twitter.com/daniel_d_kang)
 
 ## Codebases
@@ -99,6 +100,8 @@ We are organizing bi-weekly ZKML community calls. For details on when and where 
 - [keras2circom](https://github.com/socathie/keras2circom) ([@socathie](https://twitter.com/drCathieSo_eth)) (2023)
   - keras2circom is a python tool that transpiles a tf.keras model into a circom circuit.
 - [Zator](https://github.com/lyronctk/zator) - Verified inference of a 512-layer neural network using recursive SNARKs.
+- [Otti](https://github.com/eniac/otti) (2022)
+  - Compiler and zkSNARK for optimization problems including LP, SDP, SGD. Includes ZK proof of the full training of a perceptron on real-world datasets.
 - [Linear A - tachikoma](https://github.com/zk-ml/tachikoma) (2022+)
 - [Linear A - uchikoma](https://github.com/zk-ml/uchikoma) (2022+)
 - [zk-dtp](https://github.com/only4sim/myproject) - Zero Knowledge Decision Tree Predict is designed to address this pressing issue by offering privacy-preserving predictions using decision tree models, built on top of RISC Zero's zkVM.
@@ -121,7 +124,7 @@ We are organizing bi-weekly ZKML community calls. For details on when and where 
 - [Tianyi Liu, Xiang Xie, and Yupeng Zhang (2021). "zkCNN: Zero Knowledge Proofs for Convolutional Neural Network Predictions and Accuracy"](https://eprint.iacr.org/2021/673)
 - [Chenkai Weng, Kang Yang, Xiang Xie, Jonathan Katz, and Xiao Wang (2021). "Mystique: Efficient Conversions for Zero-Knowledge Proofs with Applications to Machine Learning"](https://eprint.iacr.org/2021/730) (slides)
 - [Jiasi Weng, Jian Weng, Member, IEEE, Gui Tang, Anjia Yang, Ming Li, Jia-Nan Liu (2022). pvCNN: Privacy-Preserving and Verifiable Convolutional Neural Network Testing](https://arxiv.org/abs/2201.09186)
-- [Zahra Ghodsi, Tianyu Gu, Siddharth Garg (2017). "SafetyNets: Verifiable Execution of Deep Neural Networks on an Untrusted Cloud"](https://arxiv.org/abs/1706.10268)
+- [Sebastian Angel, Andrew J. Blumberg, Eleftherios Ioannidis, Jess woods (2022). Efficient Representation of Numerical Optimization Problems for SNARKs](https://eprint.iacr.org/2021/1436.pdf)
 - [Daniel Kang](https://ddkang.github.io/), [Tatsunori Hashimoto](https://thashim.github.io/), [Ion Stoica](http://people.eecs.berkeley.edu/~istoica/), [Yi Sun](https://yisun.io/) (2022). [Scaling up Trustless DNN Inference with Zero-Knowledge Proofs](https://arxiv.org/abs/2210.08674)
 - [Haodi Wang, Thang Hoang (2022). ezDPS: An Efficient and Zero-Knowledge Machine Learning Inference Pipeline](https://arxiv.org/abs/2212.05428)
 - [Modulus Labs - The Cost of Intelligence: Proving Machine Learning Inference with Zero-Knowledge](https://drive.google.com/file/d/1tylpowpaqcOhKQtYolPlqvx6R2Gv4IzE/view)
@@ -138,7 +141,7 @@ We are organizing bi-weekly ZKML community calls. For details on when and where 
 - [Gizatech](https://gizatech.xyz/) - Fully on-chain artificial intelligence on Starknet
 - [Modulus Labs](https://www.moduluslabs.xyz/) - Bringing powerful ML models on-chain
 - [Risc Zero](https://www.risczero.com/) - The General Purpose Zero-Knowledge VM
-- [Supranational](https://www.supranational.net/) - A product and service company developing hardware accelerated cryptography for verifiable and confidential computing
+- [Supranational](https://www.supranational.net/) - A product and service company developing hardware-accelerated cryptography for verifiable and confidential computing
 - [Ingonyama](https://twitter.com/Ingo_zk) (Hardware) - Zero Knowledge ASICs (ZPU)
 - [Zama.ai](https://www.zama.ai/) (FHE ML / FHE-ZK ML) - FHE tooling for machine learning, blockchain and more. ZK-FHE is an interesting research area. [FHE.org](https://fhe.org/) is a very interesting community with a lot of potential for collaboration.
 - [zkMachineLearning](https://gitcoin.co/grants/6847/zkmachinelearning-an-end-to-end-platform-to-bridge) - ZKML tooling for Circom
