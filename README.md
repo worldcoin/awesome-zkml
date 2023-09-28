@@ -2,11 +2,11 @@
 
 Happy new year!
 
-A place where you can find content, codebases, scientific papers, projects and applications related to ZKML. Contributions and suggestions are always welcome, open issues or pull requests with any changes you want to be made and don't forget to join our Telegram community (link below).
+A place where you can find content, codebases, scientific papers, projects and applications related to ZKML. We always appreciate contributions and suggestions. If you have any changes you'd like to suggest, please feel free to open an issue or submit a pull request. Also, don't forget to join our Telegram community (link provided below).
 
 ## ZKML community
 
-We are in the process of bootstrapping a ZKML community where people can share research ideas, code they are working on and potential applications of this nascent technology. If you are interested in joining, check out our [Telegram](https://t.me/zkmlcommunity). There are few ideas we have come up with for the community:
+We are in the process of bootstrapping a ZKML community where people can share research ideas, code they are working on and potential applications of this nascent technology. If you are interested in joining, check out our [Telegram](https://t.me/zkmlcommunity). There are a few ideas we have come up with for the community:
 
 - Create a group of people working on or that are interested in doing research in the ZKML domain.
 - See what everyone is working on and find intersections where a potential for collaboration could appear.
@@ -78,9 +78,10 @@ We are organizing bi-weekly ZKML community calls. For details on when and where 
 - [ZKML: Bridging AI/ML and Web3 with Zero-Knowledge Proofs](https://hackmd.io/@cathie/zkml) - [Cathie So](https://twitter.com/drCathieSo_eth)
 - [Do language models possess knowledge (soundness)?](https://hackmd.io/@pinged/zk-and-llms) - [Tarun Chitra](https://twitter.com/tarunchitra)
 - [Balancing the Power of AI/ML: The Role of ZK and Blockchain - SevenX Ventures](https://mirror.xyz/sevenxventures.eth/3USbrj7kcK7lyq_7upA4iyWV5pWMII7KrM40z5zpEXo)
-- [The Ultimate Guide to the ZKML ecosystem (twitter thread)](https://twitter.com/Louissongyz/status/1658087354773671936?s=20) - [SevenX ventures](https://twitter.com/SevenXVentures)
+- [The Ultimate Guide to the ZKML ecosystem (Twitter thread)](https://twitter.com/Louissongyz/status/1658087354773671936?s=20) - [SevenX ventures](https://twitter.com/SevenXVentures)
 - [Verified Execution of GPT, Bert, CLIP, and more](https://medium.com/@danieldkang/verified-execution-of-gpt-bert-clip-and-more-6acb693fd55f) - [Daniel Kang](https://twitter.com/daniel_d_kang)
 - [zkML: Evolving the Intelligence of Smart Contracts Through Zero-Knowledge Cryptography - 1kx](https://mirror.xyz/1kx.eth/q0s9RCH43JCDq8Z2w2Zo6S5SYcFt9ZQaRITzR4G7a_k)
+- [Dcbuilder - Zero-Knowledge Machine Learning and its use cases](https://www.youtube.com/watch?v=f4X841gDnwY) (Jul 2023)
 
 ## Codebases
 
@@ -139,7 +140,7 @@ We are organizing bi-weekly ZKML community calls. For details on when and where 
 - [Gizatech](https://gizatech.xyz/) - Fully on-chain artificial intelligence on Starknet
 - [Modulus Labs](https://www.moduluslabs.xyz/) - Bringing powerful ML models on-chain
 - [Risc Zero](https://www.risczero.com/) - The General Purpose Zero-Knowledge VM
-- [Supranational](https://www.supranational.net/) - A product and service company developing hardware accelerated cryptography for verifiable and confidential computing
+- [Supranational](https://www.supranational.net/) - A product and service company developing hardware-accelerated cryptography for verifiable and confidential computing
 - [Ingonyama](https://twitter.com/Ingo_zk) (Hardware) - Zero Knowledge ASICs (ZPU)
 - [Zama.ai](https://www.zama.ai/) (FHE ML / FHE-ZK ML) - FHE tooling for machine learning, blockchain and more. ZK-FHE is an interesting research area. [FHE.org](https://fhe.org/) is a very interesting community with a lot of potential for collaboration.
 - [zkMachineLearning](https://gitcoin.co/grants/6847/zkmachinelearning-an-end-to-end-platform-to-bridge) - ZKML tooling for Circom
