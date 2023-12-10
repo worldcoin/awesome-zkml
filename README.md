@@ -85,7 +85,7 @@ We are organizing bi-weekly ZKML community calls. For details on when and where 
 - [TensorPlonk: A “GPU” for ZKML, Delivering 1,000x Speedups](https://medium.com/@danieldkang/tensorplonk-a-gpu-for-zkml-delivering-1-000x-speedups-d1ab0ad27e1c) - [Daniel Kang](https://twitter.com/daniel_d_kang)
 - [ZK10: ZKML with EZKL: Where we are and the future](https://www.youtube.com/watch?v=YI3ljDis8sc) - [Jason Morton (ZKonduit)](https://twitter.com/jasonmorton)
 - [ZK10: ZKML Endgame: Specialized ZK Proving with GKR](https://www.youtube.com/watch?v=tPZDIzrsg-E) - [Ryan Cao (Modulus)](https://twitter.com/nayr_oac)
-- [ezkl blog](git@github.com:zkml-community/awesome-zkml.git)
+- [ezkl blog](https://blog.ezkl.xyz/)
 - [Modulus blog](https://medium.com/@ModulusLabs)
 - [Giza blog](https://www.gizatech.xyz/blog)
 
