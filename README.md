@@ -149,7 +149,7 @@ We are organizing bi-weekly ZKML community calls. For details on when and where 
 - [zkMachineLearning](https://gitcoin.co/grants/6847/zkmachinelearning-an-end-to-end-platform-to-bridge) - ZKML tooling for Circom
 - [Aleo](https://www.aleo.org/) - Platform for building fully private and programmable Web applications.
 - [PSE team](https://appliedzkp.org/) @ Ethereum Foundation - Some ZKML research initiatives [here](https://hackmd.io/@cathie/zkml-research)
-- [Ion Protocol](https://ionprotocol.io/) - Lending Protocol for staked & restaked assets. They partnered with Modulus to build a risk engine that analyzes validator credit risk. Read more [here](https://twitter.com/ionprotocol/status/1727193815218581726)
+- [Ion Protocol](https://ionprotocol.io/) - Lending protocol for staked & restaked assets. They partnered with Modulus to build a risk engine that analyzes validator credit risk. Read more [here](https://twitter.com/ionprotocol/status/1727193815218581726)
 
 ## Use cases
 
