@@ -1,23 +1,6 @@
 # awesome-zkml
 
-Happy new year!
-
-A place where you can find content, codebases, scientific papers, projects and applications related to ZKML. We always appreciate contributions and suggestions. If you have any changes you'd like to suggest, please feel free to open an issue or submit a pull request. Also, don't forget to join our Telegram community (link provided below).
-
-## ZKML community
-
-We are in the process of bootstrapping a ZKML community where people can share research ideas, code they are working on and potential applications of this nascent technology. If you are interested in joining, check out our [Telegram](https://t.me/zkmlcommunity). There are a few ideas we have come up with for the community:
-
-- Create a group of people working on or that are interested in doing research in the ZKML domain.
-- See what everyone is working on and find intersections where a potential for collaboration could appear.
-- Map out the general direction of ZKML - use cases / academic research
-- Find people that are able to support work in this domain with capital, manpower, research capacity (i.e. PhD students), engineers, etc.
-- Co-organize a Gitcoin side round for ZKML
-- Create some form of grants program to support further R&D and existing initiatives (think 0xPARC)
-- Nerd-snipe researchers and engineers to work on ZKML
-- Start a sub-fund under a DAO/org earmarked for zkml.
-- Create educational materials for ZKML
-- Organize ZKML events (online and in-person)
+A place where you can find content, codebases, scientific papers, projects and applications related to ZKML. We always appreciate contributions and suggestions. If you have any changes you'd like to suggest, please feel free to open an issue or submit a pull request.
 
 ## Learn ZK
 
