@@ -133,6 +133,7 @@ We are organizing bi-weekly ZKML community calls. For details on when and where 
 - [Aleo](https://www.aleo.org/) - Platform for building fully private and programmable Web applications.
 - [PSE team](https://appliedzkp.org/) @ Ethereum Foundation - Some ZKML research initiatives [here](https://hackmd.io/@cathie/zkml-research)
 - [Ion Protocol](https://ionprotocol.io/) - Lending protocol for staked & restaked assets. They partnered with Modulus to build a risk engine that analyzes validator credit risk. Read more [here](https://twitter.com/ionprotocol/status/1727193815218581726)
+- [Reclaim Protocol](https://www.reclaimprotocol.org) - A protocol to get user data from any website, even those without an API and can easily be verified on chain.
 
 ## Use cases
 
