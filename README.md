@@ -71,6 +71,7 @@ We are organizing bi-weekly ZKML community calls. For details on when and where 
 - [ezkl blog](https://blog.ezkl.xyz/)
 - [Modulus blog](https://medium.com/@ModulusLabs)
 - [Giza blog](https://www.gizatech.xyz/blog)
+- [The promise and challenges of crypto + AI applications - Vitalik Buterin](https://vitalik.eth.limo/general/2024/01/30/cryptoai.html)
 
 ## Codebases
 
