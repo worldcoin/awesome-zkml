@@ -75,6 +75,7 @@ We are organizing bi-weekly ZKML community calls. For details on when and where 
 
 ## Codebases
 
+
 - [zk-mnist](https://github.com/0xZKML/zk-mnist) - [@hopanml](https://twitter.com/hopanml) [@sunfishstanford](https://twitter.com/fho888) [@henripal](https://twitter.com/henripal) (2022)
 - [zk-ml/demo](https://github.com/zk-ml/demo) - [@liaopeiyuan](https://twitter.com/LiaoPeiyuan) (2021)
 - [circomlib-ml](https://github.com/socathie/circomlib-ml) - [@socathie](https://twitter.com/drCathieSo_eth) (2022)
@@ -98,6 +99,8 @@ We are organizing bi-weekly ZKML community calls. For details on when and where 
 - [ddkang/zkml](https://github.com/ddkang/zkml) - zkml is a framework for constructing proofs of ML model execution in ZK-SNARKs.
 - [ZKaggle](https://github.com/z-kaggle/ZKaggle) and [ZKaggleV2](https://github.com/socathie/ZKaggleV2) - [@socathie](https://twitter.com/drCathieSo_eth) (2023)
   - POC of a decentralized bounty platform for hosting, verifying, and paying out bounties, similar to Kaggle, but with the added benefit of privacy preservation
+- [zkml-blueprints](https://github.com/inference-labs-inc/zkml-blueprints) - [Inference Labs](https://inferencelabs.com) (2025)
+  - zkml-blueprints is a collection of mathematical formulations and circuit designs supporting zero-knowledge (ZK) proofs for machine learning (ML) applications, focusing on efficiently implementing provable computations in ZK circuits.
 
 ## Papers
 
