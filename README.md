@@ -155,7 +155,7 @@ Decision tree for a use case that would use ZKML -> Intersection of {needs priva
     - Making the Orb trustless, provide proof that fraud filters are applied
     - Enable IrisCode upgradeability
   - ZK anomaly/fraud detection
-    - Creates the ability for creating a ZK proof of [exploitability](https://blog.trailofbits.com/2020/05/21/reinventing-vulnerability-disclosure-using-zero-knowledge-proos/)/fraud. Anomaly detection models could be trained on smart contract data and agreed upon by DAOs as interesting metrics to be able to automate security procedures such as preventively pausing contracts in a more proactive way. There are startups already looking at using ML models for security purposes in a smart contract context, so ZK anomaly detection proofs feel like the natural next step.
+    - Creates the ability for creating a ZK proof of [exploitability](https://blog.trailofbits.com/2020/05/21/reinventing-vulnerability-disclosure-using-zero-knowledge-proofs/)/fraud. Anomaly detection models could be trained on smart contract data and agreed upon by DAOs as interesting metrics to be able to automate security procedures such as preventively pausing contracts in a more proactive way. There are startups already looking at using ML models for security purposes in a smart contract context, so ZK anomaly detection proofs feel like the natural next step.
   - Generic SNARK for ML inference: ability to easily prove and verify that an output is the product of a given model and input pair.
 - Privacy
   - Decentralized Kaggle: proof that model has greater than x% accuracy on some test data without revealing weights
