@@ -9,6 +9,8 @@ jobs:
   execute-relyance-sci:
     name: Relyance SCI Job
     runs-on: ubuntu-latest
+    permissions:
+      contents: read
 
     steps:
       - name: Checkout
