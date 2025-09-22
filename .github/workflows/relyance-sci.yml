@@ -1,0 +1,23 @@
+name: Relyance SCI Scan
+
+on:
+  schedule:
+    - cron: "1 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  execute-relyance-sci:
+    name: Relyance SCI Job
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+
+    steps:
+      - name: Run Relyance SCI
+        uses: worldcoin/gh-actions-public/relyance@main
+        # More information: https://github.com/worldcoin/gh-actions-public/tree/main/relyance
+        with:
+          secrets-dpp-sci-key: ${{ secrets.DPP_SCI_KEY }}
