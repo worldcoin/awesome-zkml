@@ -68,6 +68,7 @@ We are organizing bi-weekly ZKML community calls. For details on when and where 
 - [TensorPlonk: A “GPU” for ZKML, Delivering 1,000x Speedups](https://medium.com/@danieldkang/tensorplonk-a-gpu-for-zkml-delivering-1-000x-speedups-d1ab0ad27e1c) - [Daniel Kang](https://twitter.com/daniel_d_kang)
 - [ZK10: ZKML with EZKL: Where we are and the future](https://www.youtube.com/watch?v=YI3ljDis8sc) - [Jason Morton (ZKonduit)](https://twitter.com/jasonmorton)
 - [ZK10: ZKML Endgame: Specialized ZK Proving with GKR](https://www.youtube.com/watch?v=tPZDIzrsg-E) - [Ryan Cao (Modulus)](https://twitter.com/nayr_oac)
+- [Mina blog](https://minaprotocol.com/blog/zero-knowledge-machine-learning-on-the-mina-protocol)
 - [ezkl blog](https://blog.ezkl.xyz/)
 - [Modulus blog](https://medium.com/@ModulusLabs)
 - [Giza blog](https://www.gizatech.xyz/blog)
@@ -86,6 +87,8 @@ We are organizing bi-weekly ZKML community calls. For details on when and where 
   - RockyBot is the first ever fully on-chain AI trading bot
 - [ezkl](https://github.com/zkonduit/ezkl) by [Jason Morton](https://science.psu.edu/math/people/jrm53) (2022+)
   - ezkl is a library and command-line tool for doing inference for deep learning models and other computational graphs in a zk-snark.
+- [mina zkml library](https://github.com/chris-chris/mina-zkml) by [Chris](https://github.com/chris-chris)
+  - Mina zkml is a library for constructing zkml apps from ONNX files into O1JS zkApps.
 - [keras2circom](https://github.com/socathie/keras2circom) ([@socathie](https://twitter.com/drCathieSo_eth)) (2023)
   - keras2circom is a python tool that transpiles a tf.keras model into a circom circuit.
 - [Zator](https://github.com/lyronctk/zator) - Verified inference of a 512-layer neural network using recursive SNARKs.
